@@ -9,7 +9,7 @@
         <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="spring_code.war">
+    <root id="archive" name="客户管理系统.war">
       <element id="artifact" artifact-name="spring_code:war exploded" />
     </root>
   </artifact>
